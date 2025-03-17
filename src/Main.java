@@ -27,5 +27,7 @@ public class Main {
         System.out.println(book1.equals(book));
         System.out.println(book);
         System.out.println(author1);
+        System.out.println(book1);
+        System.out.println(author2);
     }
 }
